@@ -1,2 +1,2 @@
-apache-airflow==1.10.10
+apache-airflow==1.10.15
 google-cloud-storage==1.27.0
